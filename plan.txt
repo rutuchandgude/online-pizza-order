@@ -1,0 +1,22 @@
+_Create directory structure
+_Create a NPM project and install all dependencies
+   _Dependancies
+   _express
+   _ejs express-ejs-layouts
+_Dev Dependancies 
+   _nodemon
+
+_Create Express Server - Create a server.js file
+_Git setup and first commit
+_Install Larvel Mix
+   _setup js and scss
+_Install telwind css
+_Create Home page using Html and Css
+_Create Cart page
+   _order summary section
+   _empty cart section
+_Create order controller and link it in server.js
+_Create Orders view with table for customer and admin
+_Create Orders single page with status
+_Create login page with status
+_Create login page with route
